@@ -13,7 +13,7 @@ cin>>n;
 
    jml=jml+a;
    }
-   cout<<"Hasil : "<<jml<<endl;
+   cout<<"Hasil1 : "<<jml<<endl;
 
 getch();
 }
