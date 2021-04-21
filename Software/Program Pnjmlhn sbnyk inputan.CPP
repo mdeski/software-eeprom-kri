@@ -16,4 +16,5 @@ cin>>n;
    cout<<"Hasil1 : "<<jml<<endl;
 
 getch();
+	//fauzanPr
 }
